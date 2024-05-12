@@ -43,7 +43,7 @@ Obs: houve vários outros códigos de refinamento, explicações e etc
 
 ## 📚 Materiais e Recursos
 - [Artigo](https://web.dio.me/articles/heranca-e-polimorfismo-em-python-aprenda-a-estruturar-suas-hierarquias-de-classes?back=%2Farticles&open-modal=true&page=1&order=oldest)
-- [Template](https://github.com/silaslva/ebook-Guardioes-da-Estrutura/tree/main/ebook%20%26%20template)
+- [Template](https://github.com/silaslva/artigo_dio/tree/main/images)
 
 ## 📌 Localização
 
